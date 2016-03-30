@@ -1,0 +1,1 @@
+**andtalk** is an instant messenger for Google Phone in android platform. It will support for Google Talk, Yahoo, MSN, AIM, XMPP and so on. It includes File transfer, media sharing, voicemail etc.
